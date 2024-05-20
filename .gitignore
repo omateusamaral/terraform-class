@@ -34,3 +34,5 @@ override.tf.json
 terraform.rc
 plan.out
 .terraform.lock.hcl
+aws-key-terraform
+aws-key-terraform.pub
